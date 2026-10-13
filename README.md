@@ -6,7 +6,7 @@ Browser extension that automates the ad gate before a movie or episode on [Senpa
 
 1. Open your browser's extensions page (`chrome://extensions`, `brave://extensions`, or `edge://extensions`).
 2. Enable **Developer mode**.
-3. Click **Load unpacked** and select this folder.
+3. Click **Load unpacked** and select this folder (`git clone https://github.com/qVelifox/SempaiStreamNoAds`).
 
 ## How it works
 
